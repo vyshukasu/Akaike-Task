@@ -51,7 +51,7 @@ Prophet was chosen for the following reasons:
 - The forecast includes predicted revenue (`yhat`), with lower and upper confidence bounds (`yhat_lower`, `yhat_upper`).
 
 ## Files in the Repository
-- **`notebooks/solution.ipynb`**: The Jupyter Notebook containing the full code implementation.
+- **`colab/solution.ipynb`**: The Jupyter Notebook containing the full code implementation.
 - **`data/sample.csv`**: A sample of the dataset used for the task.
 - **`outputs/forecast_plot.png`**: The plot visualizing the forecasted daily revenue.
 
